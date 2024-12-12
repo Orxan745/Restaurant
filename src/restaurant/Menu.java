@@ -1,4 +1,4 @@
-package OOP.restaurant;
+package restaurant;
 
 public class Menu {
     public static void getAdminMenu() {

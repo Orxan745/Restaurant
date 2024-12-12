@@ -1,8 +1,8 @@
-package OOP.restaurantv2;
+package restaurantv2;
 
 import java.util.Scanner;
-import static OOP.restaurantv2.OrderUtil.*;
-import static OOP.restaurantv2.Restaurant.*;
+import static restaurantv2.OrderUtil.*;
+import static restaurantv2.Restaurant.*;
 
 public class MenuUtil {
 
